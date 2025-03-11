@@ -28918,7 +28918,7 @@ if(q&&B.d.B(r,"qa.aostasoftware.com"))A.lp(A.de(0,0,1),new A.PX(),t.P)
 q=q?"Redirecting...":"Invalid QR Code!"
 return new A.ph(new A.qn(A.aa_(new A.A3(q,s,A.r7(s,s,s,s,s,s,s,s,s,s,s,18,s,s,B.ei,s,s,!0,s,s,s,s,s,s,s,s),s,s),s,s),s),!1,s)}}
 A.PX.prototype={
-$0(){window.location.href="https://ramyasiv.github.io/"},
+$0(){window.location.href="https://google.com"},
 $S:38}
 A.f0.prototype={
 C(){return"AnimationStatus."+this.b},
