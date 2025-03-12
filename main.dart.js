@@ -28914,7 +28914,7 @@ if(r.$2(a,j)>0){s[b]=j
 b=o}}s[b]=a}}
 A.xT.prototype={
 Z(a){var s=null,r=A.aeu().gCC().j(0,"redirect"),q=r!=null
-if(q&&B.d.B(r,"https://qa.aostasoftware.com"))A.lp(A.de(0,0,1),new A.PX(),t.P)
+if(q&&B.d.B(r,"qa.aostasoftware.com"))A.lp(A.de(0,0,1),new A.PX(),t.P)
 q=q?"Redirecting...":"Invalid QR Code!"
 return new A.ph(new A.qn(A.aa_(new A.A3(q,s,A.r7(s,s,s,s,s,s,s,s,s,s,s,18,s,s,B.ei,s,s,!0,s,s,s,s,s,s,s,s),s,s),s,s),s),!1,s)}}
 A.PX.prototype={
